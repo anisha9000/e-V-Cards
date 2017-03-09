@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/menu/dashboard.xml",
+        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/src/main/res/menu/dashboard.xml"
+    },
+    {
+        "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/menu/activity_dashboard_drawer.xml",
+        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/src/main/res/menu/activity_dashboard_drawer.xml"
+    }
+]
