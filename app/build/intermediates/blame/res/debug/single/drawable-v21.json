@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-v21/notification_action_background.xml"
+        "source": "/home/anisha/.android/build-cache/5844af13b30658a77b2ed7bb32f9b408495ab3f3/output/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
@@ -9,7 +9,7 @@
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-v21/abc_edit_text_material.xml"
+        "source": "/home/anisha/.android/build-cache/5844af13b30658a77b2ed7bb32f9b408495ab3f3/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
@@ -17,23 +17,23 @@
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-v21/design_password_eye.xml"
+        "source": "/home/anisha/.android/build-cache/afa12f86cab4d45e9260ad8db21eb19fcc1f89da/output/res/drawable-v21/design_password_eye.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-v21/avd_hide_password.xml"
+        "source": "/home/anisha/.android/build-cache/afa12f86cab4d45e9260ad8db21eb19fcc1f89da/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "source": "/home/anisha/.android/build-cache/5844af13b30658a77b2ed7bb32f9b408495ab3f3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-v21/abc_btn_colored_material.xml"
+        "source": "/home/anisha/.android/build-cache/5844af13b30658a77b2ed7bb32f9b408495ab3f3/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "source": "/home/anisha/.android/build-cache/afa12f86cab4d45e9260ad8db21eb19fcc1f89da/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-v21/avd_show_password.xml"
+        "source": "/home/anisha/.android/build-cache/afa12f86cab4d45e9260ad8db21eb19fcc1f89da/output/res/drawable-v21/avd_show_password.xml"
     },
     {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
