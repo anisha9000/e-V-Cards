@@ -26,5 +26,7 @@
     <string name="first_name">First Name</string>
     <string name="last_name">Last Name</string>
 
+    <!--Strings related to card list-->
+    <string name="no_card">No Cards yet? Create one now.</string>
     <string name="action_register">Get Started</string>
 </resources>

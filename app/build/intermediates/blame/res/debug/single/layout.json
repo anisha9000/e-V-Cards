@@ -184,6 +184,10 @@
         "source": "/home/anisha/.android/build-cache/afa12f86cab4d45e9260ad8db21eb19fcc1f89da/output/res/layout/design_navigation_menu.xml"
     },
     {
+        "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/layout/single_card_layout.xml",
+        "source": "/home/anisha/AndroidStudioProjects/EVCard/app/src/main/res/layout/single_card_layout.xml"
+    },
+    {
         "merged": "/home/anisha/AndroidStudioProjects/EVCard/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/home/anisha/.android/build-cache/5844af13b30658a77b2ed7bb32f9b408495ab3f3/output/res/layout/notification_action_tombstone.xml"
     },
